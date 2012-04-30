@@ -1,0 +1,111 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:enclosure assembly steps-whole box]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=whole box
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-sides and bottom]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=sides and bottom
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-inserts into side]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=inserts into side
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-with inserted panels]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=with inserted panels
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-with top bars and external panels]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=with top bars and external panels
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-door sides and bottom]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=door sides and bottom
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-door with panels]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=door with panels
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-door with panels and top]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=door with panels and top
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-everything but the top]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=everything but the top
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-complete assembly (with top)]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=complete assembly (with top)
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:enclosure assembly steps-extra hardware]
+DWG=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Layout=extra hardware
+Setup=
+OriginalSheetPath=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Marc\Documents\Inventor\LadyGagaV2\enclosure\enclosure assembly steps.pdf
+OUT=C:\Users\Marc\documents\
+PWD=
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADMPP>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
