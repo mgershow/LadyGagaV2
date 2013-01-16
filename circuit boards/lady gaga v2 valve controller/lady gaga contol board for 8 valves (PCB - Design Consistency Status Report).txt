@@ -1,0 +1,18 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves (PCB - Design Consistency Status Report).txt
+Report Written : Thursday, August 02, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves.pcb
+Design Title   : 
+Created        : 4/2/2012 2:29:12 PM
+Last Saved     : 8/2/2012 9:59:53 PM
+Editing Time   : 4040 min
+Units          : mil (precision 0)
+
+Checking integrity of Schematic "C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves.sch" with PCB "C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves.pcb".
+
+The designs are the same.
+
+
+End Of Report.

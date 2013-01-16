@@ -1,0 +1,17 @@
+Back Annotation Renames Report
+------------------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves (PCB - Back Annotation Renames Report).txt
+Report Written : Thursday, August 02, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves.pcb
+Design Title   : 
+Created        : 4/2/2012 2:29:12 PM
+Last Saved     : 8/2/2012 7:10:12 PM
+Editing Time   : 3878 min
+Units          : mil (precision 0)
+
+Outstanding PCB renames awaiting back annotation to the Schematics design.
+
+Rename Component from "HDR2" to "ICSP".
+
+End Of Report.

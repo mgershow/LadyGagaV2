@@ -1,0 +1,43 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1 (PCB - Design Rule Check Report).txt
+Report Written : Friday, December 21, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1.pcb
+Design Title   : 
+Created        : 12/21/2012 7:29:37 PM
+Last Saved     : 12/21/2012 8:29:31 PM
+Editing Time   : 59 min
+Units          : mil (precision 0)
+
+Results
+-------
+
+
+No errors found
+
+Settings
+--------
+
+Spacings
+    Tracks                             Yes
+    Pads and Vias                      Yes
+    Shapes                             Yes
+    Text                               Yes
+    Board                              Yes
+    Drills                             Yes
+    Components                         No
+
+Manufacturing
+    Min Drill Hole Size                Yes
+    Min Track Width                    Yes
+    Min Annular Ring                   Yes
+    Drill Breakout                     Yes
+
+Nets
+    Net Completion                     Yes
+    Dangling Tracks                    Yes
+    Net Track Length Differences       No
+
+
+End Of Report.

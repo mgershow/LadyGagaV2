@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1 (PCB - Pour Copper Report).txt
+Report Written : Friday, December 21, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1.pcb
+Design Title   : 
+Created        : 12/21/2012 7:29:37 PM
+Last Saved     : 12/21/2012 8:29:08 PM
+Editing Time   : 59 min
+Units          : mil (precision 0)
+
+
+End Of Report.

@@ -1,0 +1,63 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves (PCB - Forward Design Changes Report).txt
+Report Written : Thursday, August 02, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga contol board for 8 valves.pcb
+Design Title   : 
+Created        : 4/2/2012 2:29:12 PM
+Last Saved     : 8/2/2012 7:21:45 PM
+Editing Time   : 3879 min
+Units          : mil (precision 0)
+
+Added net "N0483".
+Added net "N0486".
+Added net "N0487".
+Added net "N0488".
+Added net "N0489".
+Added net "N0490".
+Added net "N0491".
+Added net "N0492".
+Added net "N0493".
+Added net "N0494".
+
+Added component reference "PL3" of component "2WP", package "DSC".
+Added component reference "DIRECTCTL" of component "2510-6002", package "3MMH-10".
+Added value "Mfr=3M" to component reference "DIRECTCTL".
+
+Added value "Category=Connector/Header" to component reference "DIRECTCTL".
+
+Added value "Manufacturer=" to component reference "DIRECTCTL".
+
+Added value "Manufacturer Part Number=" to component reference "DIRECTCTL".
+
+Added value "Distributor=" to component reference "DIRECTCTL".
+
+Added value "Distributor Part Number=" to component reference "DIRECTCTL".
+
+
+Connected pin "MCU1.25" to net "N0486".
+Connected pin "MCU1.26" to net "N0487".
+Connected pin "MCU1.27" to net "N0488".
+Connected pin "MCU1.28" to net "N0489".
+Connected pin "MCU1.29" to net "N0490".
+Connected pin "MCU1.30" to net "N0491".
+Connected pin "MCU1.31" to net "N0492".
+Connected pin "MCU1.32" to net "N0493".
+Connected pin "MCU1.33" to net "N0494".
+Connected pin "MCU1.43" to net "N0483".
+Connected pin "PL3.1" to net "N0483".
+Connected pin "PL3.2" to net "GND".
+Connected pin "DIRECTCTL.1" to net "N0486".
+Connected pin "DIRECTCTL.2" to net "N0487".
+Connected pin "DIRECTCTL.3" to net "N0488".
+Connected pin "DIRECTCTL.4" to net "N0489".
+Connected pin "DIRECTCTL.5" to net "N0490".
+Connected pin "DIRECTCTL.6" to net "N0491".
+Connected pin "DIRECTCTL.7" to net "N0492".
+Connected pin "DIRECTCTL.8" to net "N0493".
+Connected pin "DIRECTCTL.9" to net "N0494".
+Connected pin "DIRECTCTL.10" to net "GND".
+
+
+End Of Report.

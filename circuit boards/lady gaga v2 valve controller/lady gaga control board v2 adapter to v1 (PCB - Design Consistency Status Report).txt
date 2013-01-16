@@ -1,0 +1,18 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1 (PCB - Design Consistency Status Report).txt
+Report Written : Friday, December 21, 2012
+Design Path    : C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1.pcb
+Design Title   : 
+Created        : 12/21/2012 7:29:37 PM
+Last Saved     : 12/21/2012 8:26:27 PM
+Editing Time   : 58 min
+Units          : mil (precision 0)
+
+Checking integrity of Schematic "C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1.sch" with PCB "C:\Users\Marc\Documents\Inventor\LadyGagaV2\circuit boards\lady gaga v2 valve controller\lady gaga control board v2 adapter to v1.pcb".
+
+The designs are the same.
+
+
+End Of Report.
